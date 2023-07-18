@@ -1,8 +1,5 @@
 
-<section style="
-display: flex;
-justify-content:space-between;
-line-height: 40px;">
+<section>
 <h4>Feat</h4>
 <h4>2023年07月18日13:32:58</h4>
 </section>
